@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mygdx.game.Domain.HumanTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-04-18T16:31:36" hostname="Dillons-MacBook-Pro.local" time="0.094">
+  <properties/>
+  <testcase name="getBetMoney" classname="com.mygdx.game.Domain.HumanTest" time="0.001"/>
+  <testcase name="getName" classname="com.mygdx.game.Domain.HumanTest" time="0.001"/>
+  <testcase name="reset" classname="com.mygdx.game.Domain.HumanTest" time="0.0"/>
+  <testcase name="removeBetMoney" classname="com.mygdx.game.Domain.HumanTest" time="0.0"/>
+  <testcase name="addBetMoney" classname="com.mygdx.game.Domain.HumanTest" time="0.001"/>
+  <testcase name="testPlayerChip" classname="com.mygdx.game.Domain.HumanTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
